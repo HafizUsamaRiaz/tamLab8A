@@ -13,7 +13,7 @@ Create two Classes:                                                             
 	class liquid
 	class fuel
 
-Make two functions in each class to print Specific Gravity of liquid and Rate/liter of fuel
+Make two functions in each class to print Specific Gravity for liquid and Rate/liter for fuel class.
 
 	input()   //Take input from user
 	output()  //Print the above attributes.
