@@ -1,12 +1,12 @@
-# Multiple Inheritance
+## Multiple Inheritance
 
-## Task A
+### Task A
 
-### Q1 
+#### Q1 
 
 Differentate between Multilevel and Multiple inheritance?                        [3 Marks]
 
-### Q2 
+#### Q2 
 
 Create two Classes:                                                              [7 Marks]
 
